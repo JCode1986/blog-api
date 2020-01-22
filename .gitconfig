@@ -1,0 +1,8 @@
+# Place this in ~/
+[user]
+	name = Joseph Hangarter
+	email = joseph.hangarter@yahoo.com
+[core]
+	editor = code --wait
+[credential]
+	helper = cache --timeout=10800
